@@ -25,3 +25,6 @@ ml/data/processed/
 # OS files
 .DS_Store
 Thumbs.db
+# Large test artifacts
+ml/models/razorshield_test_transactions.pkl
+ml/models/razorshield_test_predictions.pkl
